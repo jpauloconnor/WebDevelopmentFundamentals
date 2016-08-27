@@ -1,0 +1,11 @@
+Sublime Tips & Additions
+html
+There is a lorem ipsum placeholder. Tools -> Snippets -> Lorem Ipsum
+
+
+For JS
+Console Window
+-Add a Node Build system
+
+JSHint
+Good for curly brace/punctuation problems

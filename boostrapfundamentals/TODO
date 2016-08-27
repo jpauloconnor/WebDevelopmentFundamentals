@@ -1,0 +1,62 @@
+...Still in progress here...
+
+DISCUSSION
+Intro notes
+	What is Bootstrap?
+	Why is it important?
+	When will we use it?
+	Points:
+		Mobile developers need to know this is out there.
+			Difference between Native & Mobile Web app
+	etc.
+
+Things to know/discuss/illustrate
+	jQuery & CSS are used to build bootstrap
+	Discuss the term responsiveness
+	Rule of 12s
+	Btns
+	Glyphicons
+	Fa fa
+
+DEMO & CODEALONG
+We need something similar to what I already have done, but expanded some and with more practice. Ideas include giving them borken code later on. Having them fix it. It would be great to possibly end up with a small boostrapped project at the end of the day.
+
+	SETUP DEMO: Setting bootstrap up
+	SETUP CODEALONG: 
+
+	DEMO: Column patterns
+	CODEALONG: More column patterns
+	PARTNER: Column challenge together.
+	INDIVIDUAL: Another one, but done individually.
+
+	DEMO: Sizes
+	CODEALONG: More sizes xl, lg, md, sm
+	PARTNER: Another POST request with a partner(solo is ok, too, but teacher facilitates).
+	INDIVIDUAL: Another one, but done individually.
+
+	DEMO: Buttons & Button sizes
+	CODEALONG: Another button but with codealong
+	PARTNER: Another button or series of buttons with a partner(solo is ok, too, but teacher facilitates).
+	INDIVIDUAL: Another one, but done individually.
+
+	DEMO: DELETE instructor demo
+	CODEALONG: Another DELETE request but with codealong
+	PARTNER: Another DELETE request with a partner(solo is ok, too, but teacher facilitates).
+	INDIVIDUAL: Another one, but done individually.
+
+PAIR PROJECT
+Build something from scratch with HTML, CSS, JS, AJAX
+Point to another api that we've created.
+
+Lab: Do the same thing with another api.
+
+
+
+SHARE RESULTS
+
+
+QUESTIONS
+Need time for questions
+
+
+
