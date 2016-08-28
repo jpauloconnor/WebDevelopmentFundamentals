@@ -1,0 +1,4 @@
+TODO:
+
+I'm not sure what we need to do to teach this better. It would be great to have a separate challenge file for each javascript concept. Also, more DOM manipulation would be nice.
+ 

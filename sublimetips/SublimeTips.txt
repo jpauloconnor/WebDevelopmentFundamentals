@@ -11,8 +11,7 @@ JSHint
 Good for curly brace/punctuation problems
 
 Setting up snippets
-
-THis is a great 
+How to do snippets
 https://www.granneman.com/webdev/editors/sublime-text/top-features-of-sublime-text/quickly-insert-text-and-code-with-sublime-text-snippets/
 
 http://www.hongkiat.com/blog/sublime-code-snippets/
