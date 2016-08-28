@@ -1,0 +1,33 @@
+General Notes:
+A lot of this section has code already. It mostly needs to be organized into separate sections.
+
+Discussion/Intro for ppt slides:
+  ☐ Why use css?
+  ☐ When should I use it?
+  ☐ Separate file or inline?
+  ☐ What all can I do with CSS?
+
+Things to cover:
+  ☐ setup
+  ☐ classes
+  ☐ ids
+  ☐ margins
+  ☐ padding
+  ☐ fontproperties
+  ☐ backgrounds
+  ☐ width & height
+  ☐ border
+  ☐ position types
+  ☐ shapes
+  ☐ navbar
+  ☐ subclasses
+  ☐ override
+  ☐ @media
+  ☐ what else?
+
+Activities:
+  ☐ shapes
+  ☐ Should we still use the creature?
+  ☐ What other ideas for activities?
+  ☐ Still use Sublime?
+

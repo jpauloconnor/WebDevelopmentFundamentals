@@ -1,61 +1,64 @@
 ...Still in progress here...
 
-DISCUSSION
-Intro notes
-	What is Bootstrap?
-	Why is it important?
-	When will we use it?
+DISCUSSION:
+	☐	Intro notes
+	☐	What is Bootstrap?
+	☐	Why is it important?
+	☐	When will we use it?
 	Points:
-		Mobile developers need to know this is out there.
-			Difference between Native & Mobile Web app
-	etc.
+		☐	Mobile developers need to know this is out there.
+			☐	Difference between Native & Mobile Web app
+	other stuff?
 
-Things to know/discuss/illustrate
-	jQuery & CSS are used to build bootstrap
-	Discuss the term responsiveness
-	Rule of 12s
-	Btns
-	Glyphicons
-	Fa fa
+Things to know/discuss/illustrate:
+	☐	jQuery & CSS are used to build bootstrap
+	☐	Discuss the term responsiveness
+	☐	Rule of 12s
+	☐	Btns
+	☐	Glyphicons
+	☐	Fa fa
 
-DEMO & CODEALONG
-We need something similar to what I already have done, but expanded some and with more practice. Ideas include giving them borken code later on. Having them fix it. It would be great to possibly end up with a small boostrapped project at the end of the day.
+General Notes:
+We need something similar to what I already have done, but expanded some and with more practice. Ideas include giving them broken code later on. Having them fix it. It would be great to possibly end up with a small boostrapped project at the end of the day.
 
-	SETUP DEMO: Setting bootstrap up
-	SETUP CODEALONG: 
+Setup Demo Code and Instructions:
+	☐	SETUP DEMO: Setting bootstrap up
+	☐	Instructions for instructors and students alike
+ 
+Columns:
+	☐	DEMO: Column patterns
+	☐	CODEALONG: More column patterns
+	☐	PARTNER: Column challenge together.
+	☐	INDIVIDUAL: Another one, but done individually.
+Device Sizes:
+	☐	DEMO: Sizes
+	☐	CODEALONG: More sizes xl, lg, md, sm
+	☐	PARTNER: Another POST request with a partner(solo is ok, too, but teacher facilitates).
+	☐	INDIVIDUAL: Another one, but done individually.
+Buttons:
+	☐	DEMO: Buttons & Button sizes
+	☐	CODEALONG: Another button but with codealong
+	☐	PARTNER: Another button or series of buttons with a partner(solo is ok, too, but teacher facilitates).
+	☐	INDIVIDUAL: Another one, but done individually.
+Glyphicons:
+	☐	DEMO: Glyphicons
+	☐	CODEALONG: Another glypjicon but with codealong
+	☐	PARTNER: Another glyphicon with a partner(solo is ok, too, but teacher facilitates).
+	☐	INDIVIDUAL: Another one, but done individually.
 
-	DEMO: Column patterns
-	CODEALONG: More column patterns
-	PARTNER: Column challenge together.
-	INDIVIDUAL: Another one, but done individually.
+Other Fundamental Concepts:
+	☐	?
 
-	DEMO: Sizes
-	CODEALONG: More sizes xl, lg, md, sm
-	PARTNER: Another POST request with a partner(solo is ok, too, but teacher facilitates).
-	INDIVIDUAL: Another one, but done individually.
-
-	DEMO: Buttons & Button sizes
-	CODEALONG: Another button but with codealong
-	PARTNER: Another button or series of buttons with a partner(solo is ok, too, but teacher facilitates).
-	INDIVIDUAL: Another one, but done individually.
-
-	DEMO: DELETE instructor demo
-	CODEALONG: Another DELETE request but with codealong
-	PARTNER: Another DELETE request with a partner(solo is ok, too, but teacher facilitates).
-	INDIVIDUAL: Another one, but done individually.
-
-PAIR PROJECT
-Build something from scratch with HTML, CSS, JS, AJAX
-Point to another api that we've created.
-
-Lab: Do the same thing with another api.
+PAIR PROJECT IDEAS:
+	☐	Build something bootstrapped in 60 minutes from scratch with HTML, CSS, & BOOTSTRAP?
+	☐	Fix some broken code?
+	What else?
 
 
+Share results:
+	☐	How should we do this?
 
-SHARE RESULTS
 
-
-QUESTIONS
 Need time for questions
 
 

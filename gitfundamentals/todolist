@@ -1,0 +1,34 @@
+General Notes:
+A lot of this section has code already. It mostly needs to be organized into separate sections. One thing that we're running into is the use of SourceTree some higher level classes. Most of the instructors in the Tracks will be using SourceTree. Only JS will be 
+
+Discussion/Intro for ppt slides:
+  ☐ Why use git?
+  ☐ When should I use it?
+  ☐ Local versus remote?
+  ☐ Define repo
+
+Git Setup:
+  ☐ Note: Paul has notes for this already.
+
+Command Line things to cover:
+  ☐ init
+  ☐ add
+  ☐ commit
+  ☐ log
+  ☐ -u upstream
+  ☐ push & pull
+  ☐ branches
+  ☐ origin
+  ☐ pull request
+  ☐ merge
+
+SourceTree:
+  ☐ Need a lesson plan
+  ☐ Resources for using 
+
+Activities:
+  ☐ shapes
+  ☐ Should we still use the creature?
+  ☐ What other ideas for activities?
+  ☐ Still use Sublime?
+

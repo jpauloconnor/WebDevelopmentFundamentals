@@ -3,7 +3,7 @@ This is sort of a wish list. It's been a struggle for people to get into using b
 Would be nice to have a nice lesson/walkthrough for manipulating bootstrap templates.
 This would be done on the portfolio lab day? Or it could be done on Day 2 for Homework?
 
-Intro for ppt slides:
+Discussion/Intro for ppt slides:
   ☐ Why use a bs template?
   ☐ When should I use it?
   ☐ Is it cheating?
