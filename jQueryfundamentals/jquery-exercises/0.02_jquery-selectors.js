@@ -21,8 +21,6 @@ $(function(){
 
   $('#id-combo-demo, .class-combo-demo').draggable();
 
-
-
   $('li:contains("sad")').click(function(){
     $(this).hide()
   });
