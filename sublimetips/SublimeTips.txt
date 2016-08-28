@@ -2,6 +2,17 @@ Sublime Tips & Additions
 html
 There is a lorem ipsum placeholder. Tools -> Snippets -> Lorem Ipsum
 
+For Package Control
+https://packagecontrol.io/installation#st3
+
+
+To get To Do List : Plain Tasks
+Install Package Control
+Package Control: Install
+Look for PlainTasks
+Read the docs here:
+https://github.com/aziz/PlainTasks
+
 
 For JS
 Console Window

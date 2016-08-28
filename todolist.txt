@@ -1,0 +1,48 @@
+Constant TODO List for this repo:
+Ongoing TODOS:
+  ☐ Improve challenges
+  ☐ Additional Examples
+  ☐ Clean up
+  ☐ 
+--- ✄ -----------------------
+ Things to do Monday:
+   ☐ Team meeting & overview
+   ☐ Divvy up tasks
+   ☐ Set up environment
+   ☐ Git flow for group
+   ☐ JIRA discussion
+--- ✄ -----------------------
+ Top Priorities for Development this week:
+   ☐ foundationppt: a ppt with 2-3 slides for overall concepts(e.g., what is html?; what is css?; what is js?; etc.)
+   ☐ htmlfundamentals: finish build html library
+   ☐ cssfundamnetals: finish css library
+   ☐ bootstrapfundamentals: finish bootstrap lib
+   ☐ htmlstore: HTML/CSS Storefront Demo Project
+   ☐ jsbasics: variables to objects
+   ☐ fundamentalstest: Week 1 assessment
+   ☐ jquery: finish jquery lib
+   ☐ ajaxfun: Ajax Fundamentals Lessons Added
+   ☐ project1: Small Lab Project 1 - Week 3
+   ☐ project2: small lab Project 2 - Week 3
+   ☐ project3: small lab project 3 - Week 3
+   ☐ sublimetips: build out Sublime tips for better usage.
+
+Calendar of course:
+  Week 1:
+    Day 1:
+      HTML Fundamentals
+      CSS Fundamentals
+    Day 2:
+      Bootstrap Fundamentals
+      HTML/CSS Store Project
+    Day 3:
+      JS Fundamentals
+    Day 4:
+      JS Fundamentals
+    Day 5:
+      JS Fundamentals
+      Assessment
+
+
+
+

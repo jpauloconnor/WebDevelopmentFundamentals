@@ -1,17 +1,55 @@
+/************************************************************
+*************************************************************
+*************************FUNCTIONS **************************
+*************************************************************
+*************************************************************/
+
+//7.1 FUNCTIONS 
+/* 
+Executes some action or actions. 
+lifeblood of your program. 
+Used everywhere!
+Allows us to reuse code.
+Examples:
+If I want to greet every user that comes to my site,
+I don't want to write the code over and over for each user.
+Math examples
+Etc.
+*/
+
 //add when needed
 var globalNumber = 1000;
+
+
+/*-----------------------------------------------------------*/
+//0.071 - Declaring functions
+// You can use the function keyword first.
+
+function hello() {
+	console.log("Hello World!");
+}
+
+//Calling a function
+hello();
+
+//Another way to declare
+var hey = function(){
+	console.log("hey!");
+}
+
+hey();
 
 //Explain the keywords, the parens, and the call.
 function printOneNumber(){
 	console.log(1);
 }
-
 printOneNumber();
 
 //Have them write a couple practice ones.
 
 
-//Variables inside of functions
+/*-----------------------------------------------------------*/
+//0.072 - Scope & Variables inside of functions
 function addNumbers(){
 	var x = 10;
 	var y = 1;
@@ -26,12 +64,18 @@ function multiplyNumbers(){
 
 addNumbers();
 multiplyNumbers();
+
 //Again, have them practice with division & subtraction.
+
+/*-----------------------------------------------------------*/
+//0.073 - Parameters
 //Explain paramters.
 
 function numberEntered(x){
 	console.log("The number you entered was: ", x);
 }
+
+//call must now have a value
 numberEntered(5);
 
 //Two params
@@ -50,15 +94,6 @@ function addMoreNumbers(firstNum, secondNum){
 
 addMoreNumbers(5, 7);
 
-//Write a function that allows you to enter the cost of all of your bills and it adds them together. 
-
-//Multiple params
-function totalBills(rent, water, electric, trash, wireless, phone, daughtersPhone){
-	console.log(rent + water + electric + trash + wireless + phone + daughtersPhone);
-}
-
-totalBills(5000, 30, 15, 0, 30, 30, 100);
-totalBills(5000, 30, 15, 0, 35, 43, 101);
 
 
 //Return keyword
@@ -111,3 +146,17 @@ function highScorer(name){
 }
 highScorer("Steph Curry");
 highScorer("Reggie Miller");
+
+
+/* What happens if we call the function 5 times. */
+pacersWon();
+pacersWon();
+pacersWon();
+pacersWon();
+pacersWon();
+
+//We can place this in a loop to make it easier
+
+for(var i = 0; i < 5; i++){
+	pacersWon();
+}
