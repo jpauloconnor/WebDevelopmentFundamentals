@@ -35,3 +35,17 @@ while(counter < 100){
 	}
 }
 
+
+
+//CHALLENGE: Without printing to the console, talk with a partner about
+//What this will do?
+
+// MORE EVIL!!!!
+var xx = 10;
+var yy = 5;
+while (xx < yy) {
+	yy++;
+	console.log("while:" + yy);
+}
+
+//Why won't this work?

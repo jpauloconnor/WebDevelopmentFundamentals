@@ -1,0 +1,10 @@
+Notes:
+
+Each section has a TODO in it.
+We will add these to JIRA as we go. 
+
+GENERAL TODOS:
+Extend each section as far as you want. I prefer that we overwrite stuff and have more than we need. 
+Might be nice to have a simple ppt that aligned with each concept. Nothing too long or crazy. I know it's not code, but it might be nice.
+
+

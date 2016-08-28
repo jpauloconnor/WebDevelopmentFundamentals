@@ -23,6 +23,25 @@ console.log("Two is greater than one? " + (2 > 1));
 console.log(3 >= 1);
 
 
+
+//Some other operations to see when dealing with equality.
+
+
+//When checking for equality, you always want to use === over == in JavaScript. 
+2 == "2"				//----> true
+2 === "2"				//----> false
+
+
+2 === 2        		    //----> true
+1 + 1 === 2	   		    //----> true
+[1+0, 1+1] === [1, 2]   //----> true
+
+"Paul" !== "John" 	    //=> true
+
+1 !== 2				    //=> true
+10 !== 10			    //=> false
+
+
 //Research the difference between =, ==, === in JS
 var one = 1;
 var stringOne = "1";

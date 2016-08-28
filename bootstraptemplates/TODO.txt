@@ -1,0 +1,19 @@
+TODO
+
+Wish list
+Would be nice to have a nice lesson/walkthrough for manipulating bootstrap templates.
+This would be done on the portfolio lab day. 
+Would be nice to walkthrough manipulating a boostrap template and making it one's own?
+
+A Step by step walkthrough?
+
+This could be a great team/partner activity...
+
+Things to discuss might be:
+	Where to start?
+	Min files
+	Index files
+	Dealing with Images
+	Changing the obvious stuff like text
+	What else?
+
