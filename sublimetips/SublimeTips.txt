@@ -28,3 +28,6 @@ https://www.granneman.com/webdev/editors/sublime-text/top-features-of-sublime-te
 http://www.hongkiat.com/blog/sublime-code-snippets/
 
 http://stackoverflow.com/questions/38452365/sublime-text-snippet-unexpected-end-of-data
+
+
+//Browser setting

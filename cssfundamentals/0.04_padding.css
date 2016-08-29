@@ -1,0 +1,12 @@
+
+#padding-experiment{
+	border: 2px solid yellow;
+	margin: 50px 250px 100px 100px;
+/*
+	padding-top: 20px;
+	padding-right: 20px;
+	padding-bottom: 20px;
+	padding-left: 20px;
+*/
+	padding: 20px 20px 20px 20px;
+}

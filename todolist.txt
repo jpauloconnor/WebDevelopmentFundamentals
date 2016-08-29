@@ -10,7 +10,8 @@ I hate to say it, but we need an extremely simple ppt that is aligned with each 
 
 Ongoing TODOS:
 Here are some things that we can always be doing.
-  ☐ addedchallenges: Improve challenges
+  ☐ addchallenges: Add more challenges
+  ☐ improvechallenges: make current challenges better or more clear.
   ☐ addexamples: Additional Examples on any section
   ☐ cleanup: pick a section and clean it up
   ☐ activityideas: explore an activity idea if you come up with something
