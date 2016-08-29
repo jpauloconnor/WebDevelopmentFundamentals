@@ -1,0 +1,35 @@
+General Notes:
+I'm not sure what we need to do to teach this better. It would be great to have a separate challenge file for each javascript concept. That's a lot though, and time is an issue. Right now, this needs at least 3 days. Also, more DOM manipulation would be nice.
+
+Resources:
+I've noted some resources in some of the files. Would be great to have some of the best nonW3schools.org resources. 
+
+Discussion/Intro for ppt slides:
+  ☐ Why use html?
+  ☐ When should I use it?
+  ☐ What all can I do with HTML?
+
+Things to cover with brief examples:
+  ☐ setup
+  ☐ ints
+  ☐ variables
+  ☐ strings
+  ☐ booleans
+  ☐ conditionals
+    ☐ if
+    ☐ else
+    ☐ else if
+  ☐ functions
+  ☐ functions - pre-built
+  ☐ loops
+  ☐ arrays
+  ☐ objects
+  ☐ dom manipulation activities
+
+Activities & Assessments:
+  ☐ JavaScript assessment?
+
+  What else?
+
+
+ 

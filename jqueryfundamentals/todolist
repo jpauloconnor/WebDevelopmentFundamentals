@@ -1,0 +1,34 @@
+General Notes:
+  This is partially built currently. There are some old files that are broken. I labeled these as jquery_old_playground. This was a copy & paste job. this stuff needs to be improved anyway. Just a reference point there. 
+  We need to plan for an 8 hour day of jQuery with a mix of instruction, practice, and activities that have a variety of challenges would be nice. There are so many things to do with jQuery, that it's hard to modularize it and trim down to the basics. I've got it started though.
+
+Discussion/Intro for ppt slides:
+  ☐ Why use jquery?
+  ☐ When should I use it?
+  ☐ What all can I do with it?
+  ☐ How do I use it?
+
+Things to cover with brief examples:
+  ☐ set up
+      ☐ download
+      ☐ link
+      ☐ alert window for making sure!
+  ☐ Resources/Docs
+  ☐ jqueryui versus jquery
+  ☐ possible complications in the head tags
+  ☐ selectors
+  ☐ effects
+  ☐ manipulating css
+  ☐ using it in place of js?
+  ☐ iteration?
+  ☐ Add the guessing game?
+
+    What else?
+
+Activities & Assessments:
+  ☐ Creature additions
+  ☐ Partner activity?
+  
+    What else?
+ 
+

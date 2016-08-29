@@ -1,9 +1,19 @@
-Constant TODO List for this repo:
+Notes:
+
+Each section has a TODO in it.
+We will add these to JIRA as we go. 
+
+GENERAL TODOS:
+Extend each section as far as you want. I prefer that we overprapre stuff and have more than we need. If you feel that something needs to be added, add it. Just make sure that it follows with the pattern that we have created. 
+
+I hate to say it, but we need an extremely simple ppt that is aligned with each concept. This would not have a whole lot on it. Nothing too long or crazy. I hate powerpoints, so I try to keep them very short.
+
 Ongoing TODOS:
-  ☐ Improve challenges
-  ☐ Additional Examples
-  ☐ Clean up
-  ☐ 
+Here are some things that we can always be doing.
+  ☐ addedchallenges: Improve challenges
+  ☐ addexamples: Additional Examples on any section
+  ☐ cleanup: pick a section and clean it up
+  ☐ activityideas: explore an activity idea if you come up with something
 --- ✄ -----------------------
  Things to do Monday:
    ☐ Team meeting & overview
@@ -34,7 +44,7 @@ Calendar of course:
       CSS Fundamentals
     Day 2:
       Bootstrap Fundamentals
-      HTML/CSS Store Project
+      Project 1: HTML/CSS Store Project
     Day 3:
       JS Fundamentals
     Day 4:
@@ -42,7 +52,43 @@ Calendar of course:
     Day 5:
       JS Fundamentals
       Assessment
+      Git Intro
 
+  Week 2:
+    Day 1:
+      jQuery Intro Day
+      Portfolio Assigned?
+    Day 2:
+      Bootstrap Template Breakdown
+      Portfolio Day
+    Day 3:
+      Guessing Game Demo
+      JSON
+      AJAX Fundamentals
+    Day 4:
+      
+    Day 5:
+      JS Fundamentals
+      Assessment
+
+
+  Week 3:
+    Day 1:
+      Portfolio Project #2
+      Portfolio Work
+    Day 2:
+      Portfolio Project #3
+      Portfolio Work
+    Day 3:
+      Portfolio Work
+      JavaScript Libraries
+    Day 4:
+      Portfolio Lab Time
+      Deployment
+    Day 5:
+      Portfolio Presentations
+      Motivation Presentation
+      What is next? 
 
 
 
